@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2019-01-25T18:31:49-08:00
-draft: true    
+draft: false
 title:  "Salad" # The title of your awesome recipe
 image: salad.png # Name of image in recipe bundle
 imagecredit: # URL to image source page, website, or creator
