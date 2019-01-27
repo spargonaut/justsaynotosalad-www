@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://justsaynotosalad.com/recipes/pork_butt/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/recipes/salad/</loc>
+    <lastmod>2019-01-25T18:31:49-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/cuisine/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/category/dinner/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/pork/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/recipes/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/salad/</loc>
+    <lastmod>2019-01-25T18:31:49-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/sous_vide/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/</loc>
+    <lastmod>2019-01-26T18:17:14-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

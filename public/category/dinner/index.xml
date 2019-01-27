@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinner on Just Say No!</title>
+    <link>http://justsaynotosalad.com/category/dinner/</link>
+    <description>Recent content in Dinner on Just Say No!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Jan 2019 18:17:14 -0800</lastBuildDate>
+    
+	<atom:link href="http://justsaynotosalad.com/category/dinner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pork Butt</title>
+      <link>http://justsaynotosalad.com/recipes/pork_butt/</link>
+      <pubDate>Sat, 26 Jan 2019 18:17:14 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/recipes/pork_butt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

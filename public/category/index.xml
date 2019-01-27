@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Category on Just Say No!</title>
+    <link>http://justsaynotosalad.com/category/</link>
+    <description>Recent content in Category on Just Say No!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://justsaynotosalad.com/category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dinner</title>
+      <link>http://justsaynotosalad.com/category/dinner/</link>
+      <pubDate>Sat, 26 Jan 2019 18:17:14 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/category/dinner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
