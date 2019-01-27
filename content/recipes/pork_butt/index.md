@@ -14,7 +14,7 @@ category: dinner
 
 tags: # You don't have to have 3, feel free to have 10, 1, or none
   - pork
-  - sous_vide
+  - sous-vide
 yield: 665
 prepTime: 15
 cookTime: 8 hours

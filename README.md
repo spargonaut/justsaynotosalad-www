@@ -8,3 +8,6 @@ Then you can edit the file `./recipes/<recipe_name>/index.md` to add your new re
 You can also just add an image to the directory `./recipes/<recipe_name` and they'll be placed automatically.
 
 A good place for copyright free images to use: https://pixabay.com/en/
+
+##### Things to remember
+- tagnames can't have spaces or underscores.  Use dashes
