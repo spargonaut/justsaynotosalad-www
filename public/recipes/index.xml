@@ -6,10 +6,19 @@
     <description>Recent content in Recipes on Just Say No!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jan 2019 16:04:48 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 17:00:56 -0800</lastBuildDate>
     
 	<atom:link href="http://justsaynotosalad.com/recipes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Simple Ghee Chicken</title>
+      <link>http://justsaynotosalad.com/recipes/simple-ghee-chicken/</link>
+      <pubDate>Sun, 27 Jan 2019 17:00:56 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/recipes/simple-ghee-chicken/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Char Siu Pork Butt Sous Vide</title>
