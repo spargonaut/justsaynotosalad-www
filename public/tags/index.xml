@@ -6,10 +6,55 @@
     <description>Recent content in Tags on Just Say No!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 18:31:49 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jan 2019 16:04:48 -0800</lastBuildDate>
     
 	<atom:link href="http://justsaynotosalad.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bowl</title>
+      <link>http://justsaynotosalad.com/tags/bowl/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/bowl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Char Siu</title>
+      <link>http://justsaynotosalad.com/tags/char-siu/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/char-siu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chinese Bbq</title>
+      <link>http://justsaynotosalad.com/tags/chinese-bbq/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/chinese-bbq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pork</title>
+      <link>http://justsaynotosalad.com/tags/pork/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/pork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pork Butt</title>
+      <link>http://justsaynotosalad.com/tags/pork-butt/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/pork-butt/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Salad</title>
@@ -17,6 +62,15 @@
       <pubDate>Fri, 25 Jan 2019 18:31:49 -0800</pubDate>
       
       <guid>http://justsaynotosalad.com/tags/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sous Vide</title>
+      <link>http://justsaynotosalad.com/tags/sous-vide/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/tags/sous-vide/</guid>
       <description></description>
     </item>
     

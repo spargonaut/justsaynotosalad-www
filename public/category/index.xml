@@ -10,5 +10,14 @@
 	<atom:link href="http://justsaynotosalad.com/category/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Dinner</title>
+      <link>http://justsaynotosalad.com/category/dinner/</link>
+      <pubDate>Sun, 27 Jan 2019 16:04:48 -0800</pubDate>
+      
+      <guid>http://justsaynotosalad.com/category/dinner/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

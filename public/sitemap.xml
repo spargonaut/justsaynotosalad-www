@@ -3,12 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://justsaynotosalad.com/recipes/char-siu-pork-butt-sous-vide/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://justsaynotosalad.com/recipes/salad/</loc>
     <lastmod>2019-01-25T18:31:49-08:00</lastmod>
   </url>
   
   <url>
+    <loc>http://justsaynotosalad.com/tags/bowl/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://justsaynotosalad.com/category/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/char-siu/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/chinese-bbq/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18,14 +41,32 @@
   </url>
   
   <url>
+    <loc>http://justsaynotosalad.com/category/dinner/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://justsaynotosalad.com/</loc>
-    <lastmod>2019-01-25T18:31:49-08:00</lastmod>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/pork/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://justsaynotosalad.com/tags/pork-butt/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://justsaynotosalad.com/recipes/</loc>
-    <lastmod>2019-01-25T18:31:49-08:00</lastmod>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -36,8 +77,14 @@
   </url>
   
   <url>
+    <loc>http://justsaynotosalad.com/tags/sous-vide/</loc>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://justsaynotosalad.com/tags/</loc>
-    <lastmod>2019-01-25T18:31:49-08:00</lastmod>
+    <lastmod>2019-01-27T16:04:48-08:00</lastmod>
     <priority>0</priority>
   </url>
   
